@@ -11,3 +11,7 @@ Bop Bip
 =======
 
 >>>>>>> 2a0939a96c3224ef7b42e95b799c830bacd7ad9e
+
+## O que aprendi?
+
+A clonar repositórios
