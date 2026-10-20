@@ -1,0 +1,2 @@
+Nesta aula aprendi a usar o Git para controlar versões de um projeto individual e GitHub para guardar e sincronizar ficheiros em repositórios remotos e atualizar ficheiros entre repositórios locais e remotos.
+Aprendi commandos de git como: git push; git pull; git clone; git init; git add; git commit.
