@@ -2,10 +2,4 @@
 
 Criar um repositório local.
 
-## Funcionalidades
-
-Bop Bip
-
-Bip Bop
-
 
